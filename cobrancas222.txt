@@ -1,0 +1,3 @@
+Cobrança de R$15000 enviada por user1(ID:1). ID da cobrança: 0.
+Cobrança de R$60000 enviada por user1(ID:1). ID da cobrança: 1.
+Cobrança de R$20000 enviada por user1(ID:1). ID da cobrança: 2.
